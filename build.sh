@@ -7,3 +7,4 @@ docker build -t "$IMAGE" .
 docker push "$IMAGE"
 
 echo "Build succeeded!"
+
