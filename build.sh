@@ -8,3 +8,4 @@ docker push "$IMAGE"
 
 echo "Build succeeded!"
 
+asdfasdf
